@@ -9,7 +9,9 @@ Fai quello quello che vuoi
 ## Obiettivi
 
 - Corretto
-- Lento
+- Uno dei due seguenti:
+    - Lento
+    - Ballerino
 - Bello
 
 ## Architettura
