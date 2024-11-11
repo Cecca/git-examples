@@ -7,3 +7,7 @@ Questo bla bla.
 - Corretto
 - Veloce
 - Bello
+
+## Architettura
+
+Questo repository fa cose.....
