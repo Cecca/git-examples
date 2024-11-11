@@ -6,3 +6,4 @@ Questo bla bla.
 
 - Corretto
 - Veloce
+- Bello
