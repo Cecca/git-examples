@@ -9,7 +9,7 @@ Fai quello quello che vuoi
 ## Obiettivi
 
 - Corretto
-- Veloce
+- Lento
 - Bello
 
 ## Architettura
