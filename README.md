@@ -11,3 +11,7 @@ Fai quello quello che vuoi
 - Corretto
 - Veloce
 - Bello
+
+## Architettura
+
+Questo repository fa cose.....
