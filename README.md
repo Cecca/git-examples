@@ -9,7 +9,7 @@ Fai quello quello che vuoi
 ## Obiettivi
 
 - Corretto
-- Veloce
+- Ballerino
 - Bello
 
 ## Architettura
